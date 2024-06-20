@@ -1,2 +1,2 @@
 # CV-Foot-Controller
- An arduino-based controller for controllnig my EHX Pitchfork pitch shifting pedal with my feet. Can be used with anything that accepts a 0-5V signal
+ An arduino-based controller that outputs a 0-5v control voltage or a vairable resistance via a digital potentiometer. Can be used as a CV input for modular gear, or a controllable resistance that can be plugged into an expression of a guitar pedal. Can be used with anything that accepts a 0-5V signal. More details here: https://bluelungimagaa.wordpress.com/2020/09/12/cv-foot-controller/
